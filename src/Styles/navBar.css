@@ -1,0 +1,12 @@
+.navbar{
+    display: flex;
+    background-color: #ffffff; 
+    justify-content: space-evenly;
+    padding: 20px;
+}
+
+.navbarlink{
+    text-decoration: none;
+    /* color: rgb(228, 228, 228); */
+    color: hsl(240, 0%, 10%);
+}

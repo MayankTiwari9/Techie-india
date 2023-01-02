@@ -1,0 +1,18 @@
+.cart{
+    display: flex;
+}
+.side1{
+
+    padding: 15px;
+    width: 750px;
+    height: 400px;
+    margin: 25px;
+    background-color: #ffffff;
+}
+.side2{
+    padding: 15px;
+    margin: 25px;
+    background-color: #ffffff;
+width: 450px;
+height: 250px;
+}
