@@ -4,7 +4,7 @@ import SignIn from '../Componets/SignIn';
 import SignUp from '../Componets/SignUp';
 import PreNavBar from '../Componets/PreNavBar';
 import Cart from '../Componets/Cart';
-import Home from '../Componets/Home/Home';
+import Home from '../Componets/Home';
 import TopOffers from '../Componets/TopOffers';
 import Tablet from '../Componets/Tablet';
 import Accessories from '../Componets/Accessories';
@@ -12,6 +12,7 @@ import TV from '../Componets/TV';
 import Laptop from '../Componets/Laptop';
 import Mobile from '../Componets/Mobile';
 import Support from '../Componets/Support';
+import Footer from '../Componets/Footer';
 
 const AllRouting = () => {
   return (
@@ -32,6 +33,7 @@ const AllRouting = () => {
     <Route path='/accessories' element={<Accessories/>}></Route>
     <Route path='/top-offers' element={<TopOffers/>}></Route>
     </Routes>
+    <Footer/>
     </BrowserRouter></div>
   )
 }
