@@ -1,8 +1,13 @@
 import React from 'react'
 
-const StartProducts = () => {
+const StartProducts = ({star}) => {
   return (
-    <div>StartProducts</div>
+    <div>StartProducts
+    <div>
+        <img src={star[0].image} alt='first'/>
+    </div>
+    </div>
+
   )
 }
 

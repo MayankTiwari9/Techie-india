@@ -10,7 +10,7 @@ import TV from './TV';
 
 const NavBar = () => {
   return (
-    <div className='navbar'>
+    <div className='navBar'>
     <Link className='navbarlink' to='/mobile' ><Mobile/></Link>
     <Link className='navbarlink' to='/laptop' ><Laptop/></Link>
     <Link className='navbarlink' to='/tv' ><TV/></Link>

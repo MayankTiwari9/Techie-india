@@ -10,7 +10,7 @@ const Home = () => {
     <div>
     <NavBar/>
     <Slider start={data.banner.start}/>
-    <StartProducts/>
+    <StartProducts star={data.starProduct}/>
     <HotAccessories/>
     </div>
   )
