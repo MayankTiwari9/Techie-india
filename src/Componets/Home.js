@@ -11,7 +11,7 @@ const Home = () => {
     <NavBar/>
     <Slider start={data.banner.start}/>
     <StartProducts star={data.starProduct}/>
-    <HotAccessories/>
+    <HotAccessories hot={data.hotAccessories.music}/>
     </div>
   )
 }

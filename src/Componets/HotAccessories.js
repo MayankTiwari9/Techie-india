@@ -1,8 +1,17 @@
-import React from 'react'
+import React from 'react';
+import '../Styles/hotAccessories.css';
 
-const HotAccessories = () => {
+const HotAccessories = ({hot}) => {
   return (
-    <div>HotAccessories</div>
+    <div className='hotAccessories'>HotAccessories
+    {hot.map((items)=>(
+      <div>
+      <p>{items.name}</p>
+        <img src={items.image} alt='second'/>
+        <p>{items.price}</p>
+      </div>
+    ))}
+    </div>
   )
 }
 
