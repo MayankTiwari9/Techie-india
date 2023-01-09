@@ -2,7 +2,9 @@ import React from 'react';
 import '../Styles/starProduct.css';
 
 const StartProducts = ({star}) => {
-  return (
+  return (<>
+    <div>Star Products
+    </div>
     <div className='starProduct'>
     {star.map((items)=>(
       <div>
@@ -10,6 +12,7 @@ const StartProducts = ({star}) => {
       </div>
     ))}
     </div>
+  </>
 
   )
 }

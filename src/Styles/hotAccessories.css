@@ -1,7 +1,0 @@
-.hotAccessories{
-    display: flex;
-    flex-wrap: wrap;
-}
-.hotAccessories>img{
-    width: 50px;
-}

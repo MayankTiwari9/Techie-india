@@ -1,0 +1,12 @@
+.hotaccessoriescard{
+    display: flex;
+    padding: 35px;
+    margin: px;
+}
+.hotaccessoriescard>div>p{
+    text-align: center;
+    width: 15px;
+}
+.hotcardimg{
+    width: 150px;
+}
