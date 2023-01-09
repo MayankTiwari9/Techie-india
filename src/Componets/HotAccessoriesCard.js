@@ -17,7 +17,7 @@ const HotAccessoriesCard = () => {
     <div>
     <h4>Music</h4>
         {music.map((item)=>(
-            <div>
+            <div className='hotaccessdiv'>
             <img className='hotcardimg' src={item.image} alt='music'/>
             <p>{item.name}</p>
             <p>{item.price}</p>
@@ -27,7 +27,7 @@ const HotAccessoriesCard = () => {
     <div>
     <h4>Smart Device</h4>
         {smartDevice.map((item)=>(
-            <div>
+            <div className='hotaccessdiv'>
             <img className='hotcardimg' src={item.image} alt='music'/>
             <p>{item.name}</p>
             <p>{item.price}</p>
@@ -37,7 +37,7 @@ const HotAccessoriesCard = () => {
     <div>
     <h4>Home</h4>
         {home.map((item)=>(
-            <div>
+            <div className='hotaccessdiv'>
             <img className='hotcardimg' src={item.image} alt='music'/>
             <p>{item.name}</p>
             <p>{item.price}</p>
@@ -47,7 +47,7 @@ const HotAccessoriesCard = () => {
     <div>
     <h4>lifeStyle</h4>
         {lifestyle.map((item)=>(
-            <div>
+            <div className='hotaccessdiv'>
             <img className='hotcardimg' src={item.image} alt='music'/>
             <p>{item.name}</p>
             <p>{item.price}</p>
@@ -57,7 +57,7 @@ const HotAccessoriesCard = () => {
     <div>
     <h4>mobileaccessories</h4>
         {mobileaccessories.map((item)=>(
-            <div>
+            <div className='hotaccessdiv'>
             <img className='hotcardimg' src={item.image} alt='music'/>
             <p>{item.name}</p>
             <p>{item.price}</p>
