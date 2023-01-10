@@ -1,14 +1,11 @@
 .hotaccessoriescard{
     display: flex;
     padding: 25px;
-    background-color: #DCDCDC;
 }
 .hotaccessdiv{
-    border: 1px solid black;
     margin: 10px;
 }
 .hotaccessoriescard>div>p{
-    text-align: center;
     width: 15px;
 }
 .hotcardimg{

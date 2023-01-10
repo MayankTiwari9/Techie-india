@@ -1,0 +1,17 @@
+.hotMenu{
+    margin-top: 4%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.hotMenu>div>img{
+    width: 200px;
+    height: 300px;
+}
+.hotMenuLink{
+    text-decoration: none;
+    color: black;
+}
+h5{
+    margin-left: 28%;
+}

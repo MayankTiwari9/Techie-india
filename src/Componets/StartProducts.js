@@ -3,8 +3,6 @@ import '../Styles/starProduct.css';
 
 const StartProducts = ({star}) => {
   return (<>
-    <div>Star Products
-    </div>
     <div className='starProduct'>
     {star.map((items)=>(
       <div>

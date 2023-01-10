@@ -33,7 +33,7 @@ const AllRouting = () => {
     <Route path='/tablet' element={<Tablet/>}></Route>
     <Route path='/accessories' element={<Accessories/>}></Route>
     <Route path='/top-offers' element={<TopOffers/>}></Route>
-    <Route path='/music' element={<HotAccessoriesCard/>}></Route>
+    <Route path='/hotaccessories' element={<HotAccessoriesCard/>}></Route>
     </Routes>
     <Footer/>
     </BrowserRouter></div>
