@@ -1,3 +1,19 @@
 .heading{
-    margin-left: 40%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+
+.heading div{
+    background-color: rgba(39, 39, 39, 0.274);
+    height: 1px;
+    width: 30vw;
+}
+
+.heading h3{
+    margin: 3%;
+    font-size: 2.5vmax;
+    font-weight: 100;
 }

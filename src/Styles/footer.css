@@ -1,0 +1,10 @@
+.footer{
+    background-color: #23496f;
+    color: black;
+    /* display: flex; */
+    margin-top: 2%;
+    /* justify-content: space-around; */
+}
+.footer div{
+    /* justify-content: space-around; */
+}
