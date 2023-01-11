@@ -15,6 +15,7 @@ const Home = () => {
       <StartProducts star={data.starProduct} />
       <Heading text ="Hot Accessories"/>
       <HotAccessoriesMenu cover={data.hotAccessoriesCover}/>
+      <hr></hr>
       </div>
   )
 }

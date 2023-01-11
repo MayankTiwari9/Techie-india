@@ -1,68 +1,80 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 import '../Styles/footer.css';
 
 
 const Footer = () => {
-  return (
-    <div className='footer'>
-      <div>
+  return (<div className='footer-container-main'>
 
+    <div className='footer-container'>
+      <div className='footer-container-2'>
         <div>
-          <div>ABOUT</div>
+          <div><h5>ABOUT</h5></div>
           <div>
-            <a href='/'>Contact Us</a>
-            <a href='/'>About Us</a>
-            <a href='/'>Career</a>
-            <a href='/'>Press</a>
-            <a href='/'>Corporate Information</a>
+            <Link href='/'>Contact Us</Link>
+            <Link href='/'>About Us</Link>
+            <Link href='/'>Career</Link>
+            <Link href='/'>Press</Link>
+            <Link href='/'>Corporate Information</Link>
           </div>
         </div>
         <div>
-          <div>HELP</div>
+          <div><h5>HELP</h5></div>
           <div>
-            <a href='/'>Payment</a>
-            <a href='/'>Shipping</a>
-            <a href='/'>Cancellation and Returns</a>
-            <a href='/'>FAQ</a>
-            <a href='/'>Report Infringement</a>
+            <Link href='/'>Payment</Link>
+            <Link href='/'>Shipping</Link>
+            <Link href='/'>Cancellation and Returns</Link>
+            <Link href='/'>FAQ</Link>
+            <Link href='/'>Report Infringement</Link>
           </div>
         </div>
         <div>
-          <div>POLICY</div>
+          <div><h5>POLICY</h5></div>
           <div>
-            <a href='/'>Return Policy</a>
-            <a href='/'>Terms Of Use</a>
-            <a href='/'>Security</a>
-            <a href='/'>Privacy</a>
-            <a href='/'>Sitemap</a>
+            <Link href='/'>Return Policy</Link>
+            <Link href='/'>Terms Of Use</Link>
+            <Link href='/'>Security</Link>
+            <Link href='/'>Privacy</Link>
+            <Link href='/'>Sitemap</Link>
           </div>
         </div>
         <div>
-          <div>SOCIAL</div>
+          <div><h5>SOCIAL</h5></div>
           <div>
-            <a href='/'>Facebook</a>
-            <a href='/'>Twitter</a>
-            <a href='/'>Youtube</a>
+            <Link className='block' href='/'>Facebook</Link>
+            <Link className='block' href='/'>Twitter</Link>
+            <Link className='block' href='/'>Youtube</Link>
           </div>
         </div>
       </div>
-      <div>
+      <div className='footer-container-3'>
         <div>
-          <div>Mail Us</div>
+          <div><h5>Mail Us :-</h5></div>
           <div>
             Tecchie India Private Limited,
             Housing Board Colony,
             Sehore, 466001 Madhya Pradesh,
             India</div>
         </div>
-        <div>Registered Office Address</div>
+        <div>
+        <div><h5>Registered Office Address :-</h5></div>
         <div>Tecchie India Private Limited,
             Housing Board Colony,
             Sehore, 466001 Madhya Pradesh,
             India
             Mobile No:- 9109330696</div>
       </div>
+        </div>
     </div>
+    <hr></hr>
+    <div className='post-footer'>
+    <div>Become a Seller</div>
+    <div>Advertise</div>
+    <div>Gift Cards</div>
+    <div>Help Center</div>
+    <div>2002-2023 Tecchie.com</div>
+    </div>
+  </div>
   )
 }
 

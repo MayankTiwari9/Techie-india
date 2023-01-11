@@ -12,6 +12,9 @@
     text-decoration: none;
     color: black;
 }
-h5{
+.hotMenuLink>h5{
     margin-left: 28%;
+}
+.hotMenuLink>h5:hover{
+    color: black;
 }

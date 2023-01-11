@@ -1,10 +1,53 @@
-.footer{
-    background-color: #23496f;
-    color: black;
-    /* display: flex; */
-    margin-top: 2%;
-    /* justify-content: space-around; */
+.footer-container-main{
+    background-color: rgb(76, 84, 126);
+    color: white;
 }
-.footer div{
-    /* justify-content: space-around; */
+.footer-container{
+    /* color: black; */
+    color: whitesmoke;
+    background-color: rgb(76, 84, 126);
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    width: 100%;
+    font-size: 11px;
+    height: 200px;
+}
+.footer-container-2{
+    display: flex;
+    width: 48%;
+    margin-top: 3%;
+    text-align: center;
+    justify-content: center;
+}
+.footer-container-2>div{
+    width: 200px;
+}
+.footer-container-3{
+    display: flex;
+    margin-top: 3%;
+    text-align: center;
+    justify-content: center;
+}
+.footer-container-3>div{
+    width: 220px;
+    justify-content: center;
+    text-align: center;
+}
+a{
+    display: block;
+    /* color: black; */
+    color: whitesmoke;
+}
+a:hover{
+    /* color: black; */
+    color: whitesmoke;
+}
+h5{
+    margin-left: 0%;
+}
+.post-footer{
+    display: flex;
+    justify-content: space-around;
+    height: 35px;
 }
