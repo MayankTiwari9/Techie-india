@@ -1,0 +1,22 @@
+.main-container{
+    margin-top: 4%;
+    display: flex;
+    font-size: small;
+    margin-bottom: 4%;
+}
+.product-image-div{
+    margin-left: 15%;
+    width: 20%;
+    margin-right: 1%;
+    justify-content: center;
+}
+.product-image-div img{
+    width: 100%;
+}
+.product-div{
+    width: 30%;
+    margin-right: 5%;
+}
+.off{
+    text-decoration: line-through;
+}

@@ -34,15 +34,17 @@
     justify-content: center;
     text-align: center;
 }
-a{
+ a{
     display: block;
-    /* color: black; */
+    /* color: black;  */
     color: whitesmoke;
+    text-decoration: none;
 }
 a:hover{
-    /* color: black; */
-    color: whitesmoke;
-}
+     /* color: black; */
+    color: whitesmoke;  
+    text-decoration: underline;
+} 
 h5{
     margin-left: 0%;
 }
