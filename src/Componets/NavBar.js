@@ -5,7 +5,7 @@ import '../Styles/navBar.css';
 const NavBar = () => {
   return (
     <div className='navBar'>
-    <Link className='navbarlink' to='/mobile' >Mobile</Link>
+    <Link className='navbarlink' to='/mobile' >Phone</Link>
     <Link className='navbarlink' to='/laptop' >Laptop</Link>
     <Link className='navbarlink' to='/tv' >TV</Link>
     <Link className='navbarlink' to='/tablet' >Tablet</Link>
