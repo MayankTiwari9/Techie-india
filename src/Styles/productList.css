@@ -1,9 +1,13 @@
-.main-container{
+.product-main-container{
     margin-top: 4%;
     display: flex;
     font-size: small;
     margin-bottom: 4%;
+    width: 700px;
+    position: relative;
+    margin-left: 200px;
 }
+
 .product-image-div{
     margin-left: 15%;
     width: 20%;

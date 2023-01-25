@@ -171,26 +171,61 @@
             {
                   "name": "Mi QLED TV 189.34cm (75)",
                   "price": "₹ 1,24,999",
+                  "offer" : "₹ 23,999  25% off",
+                  "delivery" :"Free delivery",
+                  "Exchange":"Upto 11,000 Off on Exchange",
+                  "Emi":"No Cost EMI from 4000/month",
+                  "operatingSystem" : "Operating System: Android",
+                  "screen" : "HD Ready 1366 * 768 Pixels",
+                  "warranty" :  "1 Year Comprehensive Warranty on Product and 1 Year Additional on Panel",
                   "image": "https://i02.appmifile.com/620_operator_in/23/04/2021/3c98ae4c034583122a67669c840f249e.jpg?width=140&height=140"
             },
             {
                   "name": "Mi QLED TV 4K 138.8 cm (55)",
                   "price": "₹ 57,999",
+                  "offer" : "₹ 23,999  25% off",
+                  "delivery" :"Free delivery",
+                  "Exchange":"Upto 11,000 Off on Exchange",
+                  "Emi":"No Cost EMI from 4000/month",
+                  "operatingSystem" : "Operating System: Android",
+                  "screen" : "HD Ready 1366 * 768 Pixels",
+                  "warranty" :  "1 Year Comprehensive Warranty on Product and 1 Year Additional on Panel",
                   "image": "https://i02.appmifile.com/572_operator_in/16/12/2020/4d07d0c887a4c08fd05ca06e7cd574e3.jpg?width=140&height=140"
             },
             {
                   "name": "Redmi Smart TV X Series",
                   "price": "₹ 33,999",
+                  "offer" : "₹ 23,999  25% off",
+                  "delivery" :"Free delivery",
+                  "Exchange":"Upto 11,000 Off on Exchange",
+                  "Emi":"No Cost EMI from 4000/month",
+                  "operatingSystem" : "Operating System: Android",
+                  "screen" : "HD Ready 1366 * 768 Pixels",
+                  "warranty" :  "1 Year Comprehensive Warranty on Product and 1 Year Additional on Panel",
                   "image": "https://i02.appmifile.com/126_operator_in/24/03/2021/8864007fcaa4d9815f02b827c29f100f.png?width=140&height=140"
             },
             {
                   "name": "Mi TV 4A 108 cm (43)",
                   "price": "₹ 25,999",
+                  "offer" : "₹ 23,999  25% off",
+                  "delivery" :"Free delivery",
+                  "Exchange":"Upto 11,000 Off on Exchange",
+                  "Emi":"No Cost EMI from 4000/month",
+                  "operatingSystem" : "Operating System: Android",
+                  "screen" : "HD Ready 1366 * 768 Pixels",
+                  "warranty" :  "1 Year Comprehensive Warranty on Product and 1 Year Additional on Panel",
                   "image": "https://i02.appmifile.com/733_operator_in/07/09/2020/a032f1b0bb0025dcb1c12caab81a9d4b.png?width=140&height=140"
             },
             {
                   "name": "Mi TV 4A 100 cm (40)",
                   "price": "₹ 23,999",
+                  "offer" : "₹ 23,999  25% off",
+                  "delivery" :"Free delivery",
+                  "Exchange":"Upto 11,000 Off on Exchange",
+                  "Emi":"No Cost EMI from 4000/month",
+                  "operatingSystem" : "Operating System: Android",
+                  "screen" : "HD Ready 1366 * 768 Pixels",
+                  "warranty" :  "1 Year Comprehensive Warranty on Product and 1 Year Additional on Panel",
                   "image": "https://i02.appmifile.com/986_operator_in/01/06/2021/f2b7747ce2bf0365e4414eb323b97ed5.jpg?width=140&height=140"
             }
       ],
@@ -198,27 +233,82 @@
             {
                   "name": "Mi Notebook 14 Horizon",
                   "price": "From ₹ 54,999",
-                  "image": "https://i01.appmifile.com/webfile/globalimg/in/cms/81DAE22D-023B-1742-5400-32A7760B0962.jpg?width=140&height=140"
+                  "offer":"₹ 97,890  33% off",
+                  "delivery" :"Free delivery",
+                  "Exchange" : "Upto 16,300 Off on Exchange",
+                  "Emi" : "No Cost EMI from 6,333/month",
+                  "image": "https://i01.appmifile.com/webfile/globalimg/in/cms/81DAE22D-023B-1742-5400-32A7760B0962.jpg?width=140&height=140",
+                  "processor" : "Intel Core i5 Processor (12th Gen)",
+                  "storage" : "16 GB DDR4 RAM",
+                  "os" : "64 bit Windows 11 Operating System",
+                  "ssd" : "512 GB SSD",
+                  "screen" : "39.62 cm (15.6 inch) Display",
+                  "warranty" : "1 Year Onsite warranty + 1 Year Accidental Damage Protection + 1 Year Premium Care"
+                  
             },
             {
                   "name": "Mi Notebook 14(IC)",
                   "price": "From ₹ 43,999",
-                  "image": "https://i02.appmifile.com/763_operator_in/19/01/2021/4be770942f3352ad2e7e3a94e5d75a43.jpg?width=140&height=140"
+                  "offer":"₹ 97,890  33% off",
+                  "delivery" :"Free delivery",
+                  "Exchange" : "Upto 16,300 Off on Exchange",
+                  "Emi" : "No Cost EMI from 6,333/month",
+                  "image": "https://i02.appmifile.com/763_operator_in/19/01/2021/4be770942f3352ad2e7e3a94e5d75a43.jpg?width=140&height=140",
+                  "processor" : "Intel Core i5 Processor (12th Gen)",
+                  "storage" : "16 GB DDR4 RAM",
+                  "os" : "64 bit Windows 11 Operating System",
+                  "ssd" : "512 GB SSD",
+                  "screen" : "39.62 cm (15.6 inch) Display",
+                  "warranty" : "1 Year Onsite warranty + 1 Year Accidental Damage Protection + 1 Year Premium Care"
+                  
             },
             {
                   "name": "Mi Notebook 14",
                   "price": "From ₹ 41,999",
-                  "image": "https://i01.appmifile.com/webfile/globalimg/in/cms/9534EF41-E7D9-025C-A287-B4BAFCA4A0F9.jpg?width=140&height=140"
+                  "offer":"₹ 97,890  33% off",
+                  "delivery" :"Free delivery",
+                  "Exchange" : "Upto 16,300 Off on Exchange",
+                  "Emi" : "No Cost EMI from 6,333/month",
+                  "image": "https://i01.appmifile.com/webfile/globalimg/in/cms/9534EF41-E7D9-025C-A287-B4BAFCA4A0F9.jpg?width=140&height=140",
+                  "processor" : "Intel Core i5 Processor (12th Gen)",
+                  "storage" : "16 GB DDR4 RAM",
+                  "os" : "64 bit Windows 11 Operating System",
+                  "ssd" : "512 GB SSD",
+                  "screen" : "39.62 cm (15.6 inch) Display",
+                  "warranty" : "1 Year Onsite warranty + 1 Year Accidental Damage Protection + 1 Year Premium Care"
+                  
             },
             {
                   "name": "Mi NoteBook 14 e-Learning Edition",
                   "price": "₹ 38,999",
-                  "image": "https://i02.appmifile.com/234_operator_in/05/11/2020/5b641713340b4a542b75cf737ed2cd80.png?width=140&height=140"
+                  "offer":"₹ 97,890  33% off",
+                  "delivery" :"Free delivery",
+                  "Exchange" : "Upto 16,300 Off on Exchange",
+                  "Emi" : "No Cost EMI from 6,333/month",
+                  "image": "https://i02.appmifile.com/234_operator_in/05/11/2020/5b641713340b4a542b75cf737ed2cd80.png?width=140&height=140",
+                  "processor" : "Intel Core i5 Processor (12th Gen)",
+                  "storage" : "16 GB DDR4 RAM",
+                  "os" : "64 bit Windows 11 Operating System",
+                  "ssd" : "512 GB SSD",
+                  "screen" : "39.62 cm (15.6 inch) Display",
+                  "warranty" : "1 Year Onsite warranty + 1 Year Accidental Damage Protection + 1 Year Premium Care"
+                  
             },
             {
                   "name": "Mi Webcam HD",
                   "price": "₹ 1,099",
-                  "image": "https://i02.appmifile.com/504_operator_in/05/01/2021/d465ac7bca989e33487b4b4f2447c3ea.png?width=140&height=140"
+                  "offer":"₹ 97,890  33% off",
+                  "delivery" :"Free delivery",
+                  "Exchange" : "Upto 16,300 Off on Exchange",
+                  "Emi" : "No Cost EMI from 6,333/month",
+                  "image": "https://i02.appmifile.com/504_operator_in/05/01/2021/d465ac7bca989e33487b4b4f2447c3ea.png?width=140&height=140",
+                  "processor" : "Intel Core i5 Processor (12th Gen)",
+                  "storage" : "16 GB DDR4 RAM",
+                  "os" : "64 bit Windows 11 Operating System",
+                  "ssd" : "512 GB SSD",
+                  "screen" : "39.62 cm (15.6 inch) Display",
+                  "warranty" : "1 Year Onsite warranty + 1 Year Accidental Damage Protection + 1 Year Premium Care"
+                  
             }
       ],
       "fitnessAndLifeStyle": [

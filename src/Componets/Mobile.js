@@ -1,13 +1,13 @@
 import React from 'react';
 import data from '../data/data.json';
-import '../Styles/mobile.css';
+import '../Styles/productList.css';
 
 const mobile = data.mobiles;
 const Mobile = () => {
   return (
     <div>
       {mobile.map((item)=>(
-        <div className='main-container'>
+        <div className='product-main-container'>
         <div className='product-image-div'>
           <img src={item.image} alt='mobile'/>
           <input type='checkbox'/>Add to Compare
