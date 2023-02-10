@@ -1,3 +1,4 @@
+import { Link } from 'react-router-dom';
 import '../Styles/signIn.css';
 
 
@@ -34,7 +35,8 @@ const SignIn = () => {
     <p>By continuing, you agree to Tecchie's <b>Terms of Service, Privacy Policy</b></p>
     </div>
     <div>
-    <p><b>Not on Tecchie yet? Sign up</b></p>
+    <p><b>Not on Tecchie yet? 
+      <Link to='/sign-up'>Sign up</Link></b></p>
     </div>
     </form>
     </div> 

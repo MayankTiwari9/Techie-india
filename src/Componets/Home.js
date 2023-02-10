@@ -1,5 +1,4 @@
 import React from 'react';
-import NavBar from './NavBar';
 import StartProducts from './StartProducts';
 import Slider from './Slider';
 import data from '../data/data.json'
@@ -9,7 +8,6 @@ import Heading from './Heading';
 const Home = () => {
   return (
     <div>
-      <NavBar />
       <Slider start={data.banner.start} />
       <Heading text="StartProducts"/>
       <StartProducts star={data.starProduct} />

@@ -14,13 +14,14 @@ import Mobile from '../Componets/Mobile';
 import Support from '../Componets/Support';
 import Footer from '../Componets/Footer';
 import HotAccessoriesCard from '../Componets/HotAccessoriesCard';
+import NavBar from '../Componets/NavBar';
 
 const AllRouting = () => {
   return (
     <div>
     <BrowserRouter>
     <PreNavBar/>
-    {/* <NavBar/> */}
+    <NavBar/>
     <Routes>
     <Route exact path='/' element={<Home/>}></Route>
     <Route path="/sign-in" element={<SignIn/>}></Route>

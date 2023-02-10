@@ -311,6 +311,17 @@
                   
             }
       ],
+      "tablet" : [
+            {
+                  "name": "mi tablet",
+                  "price": "₹ 5000",                  
+                  "Exchange" : "Upto 16,300 Off on Exchange"
+            }, {
+                  "name": "mi tablet",
+                  "price": "₹ 5000",                  
+                  "Exchange" : "Upto 16,300 Off on Exchange"
+            }
+      ],
       "fitnessAndLifeStyle": [
             {
                   "name": "Mi Watch Revolve",

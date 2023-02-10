@@ -1,8 +1,9 @@
-import React from 'react'
 
 const Support = () => {
   return (
-    <div>Support</div>
+    <div>Support
+    <h1>H1 tag</h1>
+    </div>
   )
 }
 
